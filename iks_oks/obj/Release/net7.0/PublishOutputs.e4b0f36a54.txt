@@ -1,0 +1,5 @@
+C:\Users\marko\OneDrive\Desktop\Programiranje\C#\Iks - Oks\iks_oks\bin\Release\net7.0\app.publish\iks_oks.exe
+C:\Users\marko\OneDrive\Desktop\Programiranje\C#\Iks - Oks\iks_oks\bin\Release\net7.0\app.publish\iks_oks.dll
+C:\Users\marko\OneDrive\Desktop\Programiranje\C#\Iks - Oks\iks_oks\bin\Release\net7.0\app.publish\iks_oks.deps.json
+C:\Users\marko\OneDrive\Desktop\Programiranje\C#\Iks - Oks\iks_oks\bin\Release\net7.0\app.publish\iks_oks.runtimeconfig.json
+C:\Users\marko\OneDrive\Desktop\Programiranje\C#\Iks - Oks\iks_oks\bin\Release\net7.0\app.publish\iks_oks.pdb
